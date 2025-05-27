@@ -12,7 +12,7 @@ Java, Python, C++, Unix/Linux
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...a mock Car Dealership java program
+👩‍💻 I'm currently working on...a mock Sandwich Shop interface with customizable options
 
 🧠 I'm currently learning... intermediate and advanced java concepts
 
